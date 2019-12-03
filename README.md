@@ -1,5 +1,5 @@
-# Credits to Zaid @t Zsecurity.org 
-## For his wonderful course on Learn Python & Ethical Hacking From Scratch 
+# I give credit to Zaid @t Zsecurity.org 
+## From his wonderful course on Learn Python & Ethical Hacking From Scratch 
 
 link for the course: https://www.udemy.com/learn-python-and-ethical-hacking-from-scratch/
 
